@@ -1,4 +1,5 @@
 import { Artwork } from "./Artwork";
+
 export class Statue{
     title: string;
     year: number;
